@@ -74,7 +74,9 @@
     { "name": "H-Arrow", "price": 4, "weight": 0.7 },
     { "name": "Piercing Bolt", "price": 20, "weight": 0.8 },
     { "name": "H-Bolt", "price": 5, "weight": 0.8 },
-    { "name": "Burst Arrow", "price": 45, "weight": 0.8 }
+    { "name": "Burst Arrow", "price": 45, "weight": 0.8 },
+    { "name": "Teste", "price": 45, "weight": 0.8 }
+
 ],
 
 "items": [
