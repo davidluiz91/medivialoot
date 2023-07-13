@@ -383,11 +383,15 @@
     { "name": "Deepshadow Legs", "price": 285000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Soulstealer Armor", "price": 218000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Purple Tome", "price": 3000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
-    { "name": "Deepshadow Boots", "price": 200000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+    { "name": "Deepshadow Boots", "price": 200000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Gatecrasher", "price": 4000 , "weight": 5, "stackable": false, "sellto": ["Ziyad"]},
+    { "name": "Warlord Helmet", "price": 42000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+
 
 ],
 
 "creatures": [
+    { "name": "Skeleton Warlord", "items": ["Black Pearl", "Dark Helmet", "Dark Armor", "War Hammer", "Time Ring", "Gatecrasher", "Skull Staff", "Tower Shield", "Golden Armor", "Steel Boots", "Warlord Helmet"] },
     { "name": "Shade", "items": ["Black Shield", "Strange Helmet", "Hangman's Rope", "Ancient Boots", "Polished Amethyst", "Shadowfall", "Deepshadow Boots"] },
     { "name": "Incidamus", "items": ["Mind Stone", "Polished Amethyst", "Wand of Light", "Shadowfall", "Giant Sword", "Forgotten Soul", "Steel Boots", "Mastermind Shield", "Deepshadow Legs", "Soulstealer Armor"] },
     { "name": "Corruptor", "items": ["Unholy Halberd", "Small Diamond", "Polished Amethyst", "Unholy Plate Armor", "Giant Sword", "Hellforged Shield", "Heavy Halberd", "Hellforged Axe", "Forgotten Soul", "Magic Plate Boots", "Magic Plate Legs", "The Deathraze", "Corrupted Backpack", "Umbral Boots", "Umbral Helmet" ] },
