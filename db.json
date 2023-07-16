@@ -385,12 +385,15 @@
     { "name": "Purple Tome", "price": 3000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Deepshadow Boots", "price": 200000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Gatecrasher", "price": 4000 , "weight": 5, "stackable": false, "sellto": ["Ziyad"]},
-    { "name": "Warlord Helmet", "price": 42000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
-
+    { "name": "Warlord Helmet", "price": 42000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Light Armor", "price": 13000 , "weight": 5, "stackable": false, "sellto": ["Wulkan"]},
+    { "name": "Observer Shield", "price": 82000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Observer Helmet", "price": 67000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
 
 ],
 
 "creatures": [
+    { "name": "Deranger", "items": ["Mind Stone", "Talon", "Polished Ruby", "Ring of Healing", "Serpent Scepter", "Red Spellwand", "Green Spellwand", "Light Sword", "Light Armor", "Observer Shield", "Observer Helmet" ] },
     { "name": "Skeleton Warlord", "items": ["Black Pearl", "Dark Helmet", "Dark Armor", "War Hammer", "Time Ring", "Gatecrasher", "Skull Staff", "Tower Shield", "Golden Armor", "Steel Boots", "Warlord Helmet"] },
     { "name": "Shade", "items": ["Black Shield", "Strange Helmet", "Hangman's Rope", "Ancient Boots", "Polished Amethyst", "Shadowfall", "Deepshadow Boots"] },
     { "name": "Incidamus", "items": ["Mind Stone", "Polished Amethyst", "Wand of Light", "Shadowfall", "Giant Sword", "Forgotten Soul", "Steel Boots", "Mastermind Shield", "Deepshadow Legs", "Soulstealer Armor"] },
