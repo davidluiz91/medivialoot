@@ -388,11 +388,14 @@
     { "name": "Warlord Helmet", "price": 42000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Light Armor", "price": 13000 , "weight": 5, "stackable": false, "sellto": ["Wulkan"]},
     { "name": "Observer Shield", "price": 82000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
-    { "name": "Observer Helmet", "price": 67000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+    { "name": "Observer Helmet", "price": 67000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Emberwake Tunic", "price": 142000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
+    { "name": "Deepshadow Amulet", "price": 340000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
 
 ],
 
 "creatures": [
+    { "name": "Cerberus", "items": ["Small Ruby", "Broad Sword", "Crown Helmet", "Burst Arrow", "Polished Ruby", "Fireweaver", "Fire Sword", "Fire Axe", "Light Armor", "Fire Hammer", "Emberwake Tunic", "Deepshadow Amulet" ] },
     { "name": "Deranger", "items": ["Mind Stone", "Talon", "Polished Ruby", "Ring of Healing", "Serpent Scepter", "Red Spellwand", "Green Spellwand", "Light Sword", "Light Armor", "Observer Shield", "Observer Helmet" ] },
     { "name": "Skeleton Warlord", "items": ["Black Pearl", "Dark Helmet", "Dark Armor", "War Hammer", "Time Ring", "Gatecrasher", "Skull Staff", "Tower Shield", "Golden Armor", "Steel Boots", "Warlord Helmet"] },
     { "name": "Shade", "items": ["Black Shield", "Strange Helmet", "Hangman's Rope", "Ancient Boots", "Polished Amethyst", "Shadowfall", "Deepshadow Boots"] },
