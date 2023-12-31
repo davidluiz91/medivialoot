@@ -400,14 +400,14 @@
     { "name": "Hallowed Flame", "price": 145000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Hallowed Pieces of Cloth", "price": 6000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
     { "name": "Eyes of Abysmor", "price": 6000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]},
-    { "name": "Hexfire", "price": 5000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
+    { "name": "Hexfire Soulscepter", "price": 5000 , "weight": 5, "stackable": false, "sellto": ["Drolgruth"]}
     
 
 ],
 
 "creatures": [
-    { "name": "Havoc Apostle", "items": [ "Abysmor Claw", "Abyssal Fang", "Abyssal Scriptures", "Tome of Shadows", "Nightbane", "Prismatic Shard", "Hallowed Flame", "Hallowed Pieces of Cloth", "Eyes of Abysmor","Hexfire"] },
-    { "name": "Abysmor", "items": [ "Abysmor Claw", "Abyssal Fang", "Abyssal Scriptures", "Tome of Shadows", "Nightbane", "Prismatic Shard", "Hallowed Flame", "Hallowed Pieces of Cloth", "Eyes of Abysmor","Hexfire"] },
+    { "name": "Havoc Apostle", "items": [ "Abysmor Claw", "Abyssal Fang", "Abyssal Scriptures", "Tome of Shadows", "Nightbane", "Prismatic Shard", "Hallowed Flame", "Hallowed Pieces of Cloth", "Eyes of Abysmor","Hexfire Soulscepter", "The Deathraze", "Void Mace"] },
+    { "name": "Abysmor", "items": [ "Abysmor Claw", "Abyssal Fang", "Abyssal Scriptures", "Tome of Shadows", "Nightbane", "Prismatic Shard", "Hallowed Flame", "Hallowed Pieces of Cloth", "Eyes of Abysmor","Hexfire Soulscepter", "The Deathraze", "Void Mace"] },
     { "name": "Cerberus", "items": ["Small Ruby", "Broad Sword", "Crown Helmet", "Burst Arrow", "Polished Ruby", "Fireweaver", "Fire Sword", "Fire Axe", "Light Armor", "Fire Hammer", "Emberwake Tunic", "Deepshadow Amulet" ] },
     { "name": "Deranger", "items": ["Mind Stone", "Talon", "Polished Ruby", "Ring of Healing", "Serpent Scepter", "Red Spellwand", "Green Spellwand", "Light Sword", "Light Armor", "Observer Shield", "Observer Helmet" ] },
     { "name": "Skeleton Warlord", "items": ["Black Pearl", "Dark Helmet", "Dark Armor", "War Hammer", "Time Ring", "Gatecrasher", "Skull Staff", "Tower Shield", "Golden Armor", "Steel Boots", "Warlord Helmet"] },
